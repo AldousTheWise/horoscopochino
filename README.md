@@ -67,5 +67,5 @@ La base de datos consta de dos tablas principales:
 ### 🔮 Vista de la página principal
 ![Principal](src/main/webapp/main.png)
 
-### 🔮 Vista de la lista de usuarios
-![Lista de usuarios](src/main/webapp/list.png)
+### 🔮 Vista de horoscopo
+![Horoscopo](src/main/webapp/list.png)
